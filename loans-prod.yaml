@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to BrandonBank accounts related prod APIs "
+  message: "Welcome to BrandonBank accounts related production APIs "
   contactDetails:
     name: "Brandon Browns Sr - Product Owner"
     email: "brandon@brownsbank.com"
